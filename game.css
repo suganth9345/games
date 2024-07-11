@@ -1,0 +1,24 @@
+body{
+    background-image: url('download (2).jpg');
+    background-size: cover;
+    margin: 200px;
+}
+.container{
+    background-color: rgb(235, 205, 205);
+    width: 350px;
+    height: 160px;
+    border-radius: 10px;
+    background-image: url('download (1).jpg');
+    background-size: cover;
+    color: blue;
+    
+}
+button:hover{
+    background-color:pink;
+}
+h2{
+    background-color: blueviolet;
+    color: red;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
